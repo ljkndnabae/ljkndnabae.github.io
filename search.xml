@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>第二篇文章</title>
+      <link href="/2025/05/26/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2025/05/26/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><h2 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇文章</title>
       <link href="/2025/05/26/2025%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2025/05/26/2025%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
@@ -40,27 +59,19 @@
     </entry>
     
     
+  
+  
+    
     
     <entry>
-      <title>第二篇文章</title>
-      <link href="/2025/05/26/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2025/05/26/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>电影仓库</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><h2 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h2>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-        </tags>
+        <content type="html"><![CDATA[<h2 id="🌟-推荐平台"><a href="#🌟-推荐平台" class="headerlink" title="🌟 推荐平台"></a>🌟 推荐平台</h2><ul><li><a href="https://www.bilibili.com/">bilibili</a></li><li><a href="https://movie.douban.com/">豆瓣电影</a></li><li><a href="https://www.yinghuadm.cn/">樱花动漫</a></li></ul><h2 id="🎥-我的最爱-新海诚三部曲"><a href="#🎥-我的最爱-新海诚三部曲" class="headerlink" title="🎥 我的最爱(新海诚三部曲)"></a>🎥 我的最爱(新海诚三部曲)</h2><!-- 手动添加电影卡片 --><div class="movie-grid">  <div class="movie-card">    <a href="https://www.bilibili.com/video/BV12cG2zHEEP/">      <img src="/img/dm7.webp" alt="你的名字">      <p>《你的名字》</p>    <a href="https://www.yinghuadm.cn/play_5717-1-1.html">      <img src="/img/dm8.jpg" alt="天气之子">      <p>《天气之子》</p>    <a href="https://www.yinghuadm.cn/play_7465-1-1.html">      <img src="/img/9.jpg" alt="铃芽之旅">      <p>《铃芽之旅》</p>    </a>  </div>  <!-- 更多电影... --></div><style>.movie-grid {  display: grid;  grid-template-columns: repeat(3, 1fr);  gap: 15px;}.movie-card img {  width: 100%;  border-radius: 5px;}</style>]]></content>
       
     </entry>
     
-    
-  
-  
     
     
     <entry>
@@ -75,11 +86,11 @@
     
     
     <entry>
-      <title>电影仓库</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="🌟-推荐平台"><a href="#🌟-推荐平台" class="headerlink" title="🌟 推荐平台"></a>🌟 推荐平台</h2><ul><li><a href="https://www.bilibili.com/">bilibili</a></li><li><a href="https://movie.douban.com/">豆瓣电影</a></li><li><a href="https://www.yinghuadm.cn/">樱花动漫</a></li></ul><h2 id="🎥-我的最爱-新海诚三部曲"><a href="#🎥-我的最爱-新海诚三部曲" class="headerlink" title="🎥 我的最爱(新海诚三部曲)"></a>🎥 我的最爱(新海诚三部曲)</h2><!-- 手动添加电影卡片 --><div class="movie-grid">  <div class="movie-card">    <a href="https://www.bilibili.com/video/BV12cG2zHEEP/">      <img src="/img/dm7.webp" alt="你的名字">      <p>《你的名字》</p>    <a href="https://www.yinghuadm.cn/play_5717-1-1.html">      <img src="/img/dm8.jpg" alt="天气之子">      <p>《天气之子》</p>    <a href="https://www.yinghuadm.cn/play_7465-1-1.html">      <img src="/img/9.jpg" alt="铃芽之旅">      <p>《铃芽之旅》</p>    </a>  </div>  <!-- 更多电影... --></div><style>.movie-grid {  display: grid;  grid-template-columns: repeat(3, 1fr);  gap: 15px;}.movie-card img {  width: 100%;  border-radius: 5px;}</style>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -100,17 +111,6 @@
       <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
